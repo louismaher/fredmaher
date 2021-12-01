@@ -2,9 +2,9 @@
 archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
 postsHeading: Nouvelles
-title: Vidéo Ainsi soit-il
+title: Vidéo de Ainsi soit-il
 metaTitle: Vidéo de Ainsi soit-il
-metaDesc: Vidéo Ainsi soit-il
+metaDesc: Vidéo de Ainsi soit-il
 tags:
   - Vidéos
 ---

@@ -773,7 +773,8 @@ div#large-visualization{
                             <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">Ainsi soit-il</span>
+                            <span class="song-title">Ainsi soit-il<span class="video"><a href="posts/video-ainsi-soit-il/">VIDÉO
+        </a></span></span>
                         </div>
                         <span class="song-duration">2:31</span>
                     </div>

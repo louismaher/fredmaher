@@ -21,3 +21,10 @@ tags:
   allowfullscreen
   title="Vidéo de Cheveux au vent - Fred Maher"
 ></iframe>
+<p>Conception et réalisation: Fred Maher, Serge Morneau<br>  
+Montage: Serge Morneau</p>
+
+<p>Fred Maher: guitare, voix<br>
+Michel Hinton: piano<br> 
+Mario Légaré: basse, voix<br> 
+Louis Maher: guitare, voix<p>

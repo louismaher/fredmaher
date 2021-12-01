@@ -20,8 +20,8 @@ tags:
   allowfullscreen
   title="Vidéo Ainsi soit-il - Fred Maher"
 ></iframe>
-Conception et réalisation: Fred Maher, Serge Morneau  
-Montage: Serge Morneau
+<p>Conception et réalisation: Fred Maher, Serge Morneau<br>  
+Montage: Serge Morneau</p>
 
 Fred Maher: guitare, voix
 Louis Maher: guitare, voix

@@ -3,7 +3,7 @@ archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
 postsHeading: Nouvelles
 title: Vidéo Ainsi soit-il
-metaTitle: Vidéo Ainsi soit-il
+metaTitle: Vidéo d'Ainsi soit-il
 metaDesc: Vidéo Ainsi soit-il
 tags:
   - Vidéos
@@ -58,7 +58,7 @@ Ainsi soit-il
   width="560"
   height="315"
   src="https://youtu.be/3F5I6Dah47o"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/3F5I6Dah47o?autoplay=1><img src=https://i.ytimg.com/vi/iPxpSqu8BhU/maxresdefault.jpg alt='Vidéo Ainsi soit-il - Fred Maher'><span>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/3F5I6Dah47o?autoplay=1><img src=https://i.ytimg.com/vi/3F5I6Dah47o/maxresdefault.jpg alt='Vidéo Ainsi soit-il - Fred Maher'><span>▶</span></a>"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

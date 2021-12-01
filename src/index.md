@@ -874,7 +874,8 @@ div#large-visualization{
                             <img class="now-playing" src="images/now-playing.svg"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">Masson</span>
+                            <span class="song-title">Masson<span class="video"><a href="posts/video-masson/">VIDÉO
+        </a></span></span>
                         </div>
                         <span class="song-duration">2:57</span>
                     </div>

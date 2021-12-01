@@ -1,7 +1,6 @@
 ---
 archiveButtonText: Voir toutes les nouvelles
 layout: layouts/post.njk
-date: 2020-07-12T22:33:00.000Z
 postsHeading: Nouvelles
 title: Vidéo Ainsi soit-il
 metaTitle: Vidéo Ainsi soit-il

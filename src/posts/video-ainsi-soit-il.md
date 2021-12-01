@@ -23,7 +23,7 @@ tags:
 <p>Conception et réalisation: Fred Maher, Serge Morneau<br>  
 Montage: Serge Morneau</p>
 
-Fred Maher: guitare, voix
-Louis Maher: guitare, voix
-Mario Légaré: basse
-Michel Hinton: accordéon
+<p>Fred Maher: guitare, voix<br>
+Louis Maher: guitare, voix<br>
+Mario Légaré: basse<br>
+Michel Hinton: accordéon<p>

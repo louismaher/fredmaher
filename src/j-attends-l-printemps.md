@@ -47,7 +47,6 @@ Serge Morneau: photo couverture
   allowfullscreen
   title="Vidéo de Cheveux au vent - Fred Maher"
 ></iframe>
-<br><a href="/tags/vidéos">Pour voir toutes les vidéos</a>   
 ### Paroles et musique
 [J'attends l'printemps &rarr;](/paroles-et-musique/j-attends-l-printemps/)<br>
 [Jamais loin &rarr;](/paroles-et-musique/jamais-loin/)<br>

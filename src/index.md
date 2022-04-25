@@ -739,7 +739,8 @@ div#large-visualization{
                             <img class="now-playing" src="images/now-playing.svg" alt="now-playing"/>
                         </div>
                         <div class="song-meta-data">
-                            <span class="song-title">J'attends l'printemps</span>
+                            <span class="song-title">J'attends l'printemps<span class="video"><a href="posts/video-de-j-attends-l-printemps/">VIDÉO
+        </a></span></span>
                         </div>
                         <span class="song-duration">3:33</span>
                     </div>

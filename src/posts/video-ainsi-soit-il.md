@@ -5,6 +5,7 @@ postsHeading: Nouvelles
 title: Vidéo de Ainsi soit-il
 metaTitle: Vidéo de Ainsi soit-il
 metaDesc: Vidéo de Ainsi soit-il
+date: 2021-12-01T04:09:38.678Z
 tags:
   - Vidéos
 ---

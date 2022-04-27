@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: J'attends l'printemps
-permalink: ""
+permalink: /j-attends-l-printemps/
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""

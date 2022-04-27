@@ -24,7 +24,7 @@ Fred Maher: paroles et musique
 Fred Maher: guitares, voix\
 Michel Hinton: piano, accordéon\
 Mario Légaré: basses, voix\
-Louis Maher: guitare, yukulele, voix  
+Louis Maher: guitares, yukulele, voix  
 
 Michel Hinton: enregistrement\
 Guy Rhéaume: mix et mastering

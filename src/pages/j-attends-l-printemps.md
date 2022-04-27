@@ -65,7 +65,7 @@ Serge Morneau: photo couverture
 [Marcher →](/paroles-et-musique/marcher/)\
 [Ce n'est pas par hasard →](/paroles-et-musique/ce-n-est-pas-par-hasard/)\
 [Masson →](/paroles-et-musique/masson/)\
-[Le secret de l'amour →](/paroles-et-musique/le-secret-de-l-amour/)\
+[Le secret de l'amour →](/paroles-et-musique/le-secret-de-l-amour/)
 
 Écoutez 🌱 *[J'attends l'printemps](/)*
 <br>

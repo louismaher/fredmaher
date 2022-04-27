@@ -24,7 +24,7 @@ Fred Maher: paroles et musique
 Fred Maher: guitares, voix\
 Michel Hinton: piano, accordéon\
 Mario Légaré: basses, voix\
-Louis Maher: guitare, yukulele, voix  
+Louis Maher: guitares, yukulele, voix  
 
 Michel Hinton: enregistrement\
 Guy Rhéaume: mix et mastering
@@ -52,9 +52,8 @@ Serge Morneau: photo couverture
 
 ### Paroles et musique
 
-#### [J'attends l'printemps](/paroles-et-musique/j-attends-l- printemps/)
-
-#### [Jamais loin](/paroles-et-musique/jamais-loin/)
+[J'attends l'printemps →](/paroles-et-musique/j-attends-l-printemps/)
+[Jamais loin →](/paroles-et-musique/jamais-loin/)
 [Cheveux au vent →](/paroles-et-musique/cheveux-au-vent/)
 [Ainsi soit-il →](/paroles-et-musique/ainsi-soit-il/)
 [Amoureux seul →](/paroles-et-musique/amoureux-seul/)

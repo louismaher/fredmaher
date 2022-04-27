@@ -6,11 +6,11 @@ metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""
 ---
-<ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]"><li class="nav__item"><a href="#apercu">Aperçu</a></li>
+<!--<ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]"><li class="nav__item"><a href="#apercu">Aperçu</a></li>
 <li class="nav__item"><a href="#artisans">Artisans</a></li>
 <li class="nav__item"><a href="#videos">Vidéo</a></li>
 <li class="nav__item"><a href="#textes">Paroles et musique</a></li>
-</ul>
+</ul>-->
 
 ### Aperçu
 

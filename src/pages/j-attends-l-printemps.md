@@ -54,18 +54,18 @@ Serge Morneau: photo couverture
 
 [J'attends l'printemps →](/paroles-et-musique/j-attends-l-printemps/)\
 [Jamais loin →](/paroles-et-musique/jamais-loin/)\
-[Cheveux au vent →](/paroles-et-musique/cheveux-au-vent/)
-[Ainsi soit-il →](/paroles-et-musique/ainsi-soit-il/)
-[Amoureux seul →](/paroles-et-musique/amoureux-seul/)
-[Lentement mais sûrement →](/paroles-et-musique/lentement-mais-surement/)
-[On a eu peur →](/paroles-et-musique/on-a-eu-peur/)
-[En courant →](/paroles-et-musique/en-courant/)
-[J'ai pas l'choix →](/paroles-et-musique/j-ai-pas-l-choix/)
-[Si j'te trouvais →](/paroles-et-musique/si-j-te-trouvais/)
-[Marcher →](/paroles-et-musique/marcher/)
-[Ce n'est pas par hasard →](/paroles-et-musique/ce-n-est-pas-par-hasard/)
-[Masson →](/paroles-et-musique/masson/)
-[Le secret de l'amour →](/paroles-et-musique/le-secret-de-l-amour/)
+[Cheveux au vent →](/paroles-et-musique/cheveux-au-vent/)\
+[Ainsi soit-il →](/paroles-et-musique/ainsi-soit-il/)\
+[Amoureux seul →](/paroles-et-musique/amoureux-seul/)\
+[Lentement mais sûrement →](/paroles-et-musique/lentement-mais-surement/)\
+[On a eu peur →](/paroles-et-musique/on-a-eu-peur/)\
+[En courant →](/paroles-et-musique/en-courant/)\
+[J'ai pas l'choix →](/paroles-et-musique/j-ai-pas-l-choix/)\
+[Si j'te trouvais →](/paroles-et-musique/si-j-te-trouvais/)\
+[Marcher →](/paroles-et-musique/marcher/)\
+[Ce n'est pas par hasard →](/paroles-et-musique/ce-n-est-pas-par-hasard/)\
+[Masson →](/paroles-et-musique/masson/)\
+[Le secret de l'amour →](/paroles-et-musique/le-secret-de-l-amour/)\
 
 Écoutez 🌱 *[J'attends l'printemps](/)*
 <br>

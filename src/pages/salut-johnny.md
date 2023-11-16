@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Salut Johnny
-permalink: /j-attends-l-printemps/
+permalink: salut-johnny
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""

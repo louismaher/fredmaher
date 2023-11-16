@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
 title: J'attends l'printemps
+metaTitle: J'attends l'printemps - Fred Maher
+metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 postsHeading: Dernières nouvelles
 archiveButtonText: Voir toutes les nouvelles
-metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
-metaTitle: J'attends l'printemps - Fred Maher
 permalink: /
 ---
 <head>
@@ -673,6 +673,7 @@ div#large-visualization{
 
 /*# sourceMappingURL=app.css.map */
 </style>
+
 </head>
 <div id="blue-playlist-container">
             <!-- Amplitude Player -->
@@ -1015,7 +1016,7 @@ Amplitude.init({
 			"url": "/mp3/marcher.mp3",
     },
     {
-      "name": "Ce n'est pas par hasard",
+      "name": "Ce n'est pas par hasar",
       "artist": "Fred Maher",
 			"album": "J'attends l'printemps",
 			"url": "/mp3/ce-n-est-pas-par-hasard.mp3",

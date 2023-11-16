@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Salut Johnny
+title: vvvvvvv Salut Johnny
 metaTitle: Salut Johnny - Fred Maher
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""

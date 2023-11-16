@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Salut Johnny
-permalink: /salut-johnny/
+permalink: /pages/salut-johnny/
 metaTitle: Fred Maher Musique
 metaDesc: Site de l'auteur-compositeur Fred Maher
 socialImage: ""

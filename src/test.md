@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: TEST TEST
+title: ESSAI
 postsHeading: Dernières nouvelles
 archiveButtonText: Voir toutes les nouvelles
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher

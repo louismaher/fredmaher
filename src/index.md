@@ -1,6 +1,6 @@
 ---
 layout: layouts/home
-title: J'attends l'printemps.
+title: J'attends l'printemps
 metaTitle: J'attends l'printemps - Fred Maher
 metaDesc: Site de l'auteur-compositeur-interprète Fred Maher
 postsHeading: Dernières nouvelles
